@@ -1,2 +1,10 @@
 # Collabs
-You want to collaborate with me on your upcoming event on Open Source. Just raise an issue mentioning your event.
+
+<img src="./headerImage.PNG">
+
+<p align=center>
+I would love to collaborate with your community for any upcoming events on Open Source.
+  
+</p>
+
+## Just create an issue [here](https://github.com/imabp/Collabs/issues) sharing me about your event and the community.
