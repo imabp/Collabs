@@ -17,7 +17,7 @@ I would love to collaborate with your community for any upcoming events on Open 
 2. Most doubts, were on building APIs, using services like Shashido, React, SQLite, DJango and Flask.
 
 <p align="center">
-<img src="./Mentoring.png" >
+<img src="./Mentoring.png" width="70%">
 </p>
 
 ### Introduction to NodeJS and Azure Deployment
