@@ -12,7 +12,7 @@ I would love to collaborate with your community for any upcoming events on Open 
 
 # Past Events
 
-### Hack The Mountains - Mentor (Modern Web Dev)
+### MLH-Hack The Mountains - Mentor (Modern Web Dev)
 1. Mentoring over 400 students with Major League Hacking (MLH) Hack Season 2021 under Modern Web Dev category.
 2. Most doubts, were on building APIs, using services like Shashido, React, SQLite, DJango and Flask.
 
