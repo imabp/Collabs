@@ -12,6 +12,17 @@ I would love to collaborate with your community for any upcoming events on Open 
 
 # Past Events
 
+### Webinar with Bhartiya Vidyapeeth College of Engineering New Delhi
+1. Took a collaborative session with BVPCE in this Hacktoberfest 2020. 
+2. Topics covered were about Open Source, Git and GitHub, various paid open source programs and internships.
+
+<p align="center">
+<img src="./BVP_Event.png" width="70%">
+</p>
+
+
+
+
 ### MLH-Hack The Mountains - Mentor (Modern Web Dev)
 1. Mentoring over 400 students with Major League Hacking (MLH) Hack Season 2021 under Modern Web Dev category.
 2. Most doubts, were on building APIs, using services like Shashido, React, SQLite, DJango and Flask.
