@@ -12,6 +12,16 @@ I would love to collaborate with your community for any upcoming events on Open 
 
 # Past Events
 
+### Expert Speaker At  Department of CSE, Chandigarh University
+1. Invited as Expert Speaker at Chandigarh University for Web Development.
+2. Spoken on Modern Web Development and discussed roadmaps to get started.
+3. Attendance: 200 Students.
+
+<p align="center">
+<img src="./ChandigarhUniversity.png" width="70%">
+</p>
+
+
 ### Webinar with Bhartiya Vidyapeeth College of Engineering New Delhi
 1. Took a collaborative session with BVPCE in this Hacktoberfest 2020. 
 2. Topics covered were about Open Source, Git and GitHub, various paid open source programs and internships.
