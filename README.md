@@ -12,6 +12,15 @@ I would love to collaborate with your community for any upcoming events on Open 
 
 # Past Events
 
+### Student Expert Speaker At Postman Inc.
+1. Invited as Expert Speaker from Postman Inc.
+2. Gave talk on API Basics to best practices and design.
+3. Over 100+ Registrations
+<p align="center">
+<img src="./postman.png" width="70%">
+</p>
+
+
 ### Expert Speaker At  Department of CSE, Chandigarh University
 1. Invited as Expert Speaker at Chandigarh University for Web Development.
 2. Spoken on Modern Web Development and discussed roadmaps to get started.
