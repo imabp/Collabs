@@ -31,7 +31,7 @@ We can have a talk no worries.
 
 **Students**
 
-- [ ] I really want that open source should impact more amount of students, at least *15+ students* must be present in the event
+- [ ] I really want that open source should impact more amount of students, at least *40+ students* must be present in the event
 
 
 
